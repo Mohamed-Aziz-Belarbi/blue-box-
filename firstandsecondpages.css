@@ -1,0 +1,108 @@
+h1{
+  text-align: center;
+  color: aqua;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+ }
+
+
+
+
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/002/858/648/original/3d-blue-mystery-box-with-illuminated-lighting-glitter-on-dark-background-vector.jpg");
+    background-size: cover;
+}
+
+
+p{
+  font-size: large;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+  color: aqua;
+}
+
+/* the design for the start button */
+.buttonStart{ display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #ffffffaf;
+  background-color: #0d009c;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  transform: translate(680px, 10px)
+
+}
+.buttonStart:hover{
+    display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #ffffffaf;
+  background-color: #0d009c;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  
+
+}
+ #box {
+        width: 100px;
+        height: 400px;
+        background-color: rgba(0, 26, 174, 0.677);
+        color: white;
+        text-align: center;
+        font-size: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+        margin: auto;
+  width: 60%;
+  border: 3px solid;
+  padding: 10px
+      }
+    
+ button:hover{
+  display: inline-block;
+padding: 15px 25px;
+font-size: 24px;
+cursor: pointer;
+text-align: center;
+text-decoration: none;
+outline: none;
+color: #ffffffaf;
+background-color: #0d009c;
+border: none;
+border-radius: 15px;
+box-shadow: 0 9px #999;
+
+
+}
+
+button{
+ display:block;
+padding: 15px 25px;
+font-size: 24px;
+cursor: pointer;
+text-align: center;
+text-decoration: none;
+outline: none;
+color: #ffffffaf;
+background-color: #0d009c;
+border: none;
+border-radius: 15px;
+box-shadow: 0 9px #999;
+
+transform: translate(680px, 10px);
+
+}
+#c{
+  transform: translate(739px, 34px);
+}
+ 
